@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "218070337732",
+    "firebase_url": "https://ranienpanne-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ranienpanne",
+    "storage_bucket": "ranienpanne.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218070337732:android:da30b183274f712aade191",
+        "android_client_info": {
+          "package_name": "com.example.ranienpanne"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDYuJ4xdh0q5MczFU-RvPQG_vDq0nfm0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

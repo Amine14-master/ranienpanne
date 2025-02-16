@@ -1,0 +1,33 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/editTextUserInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Type your question here"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/buttonAskAI"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ask AI"
+
+        android:backgroundTint="#ffcc3e"/>
+
+    <TextView
+        android:id="@+id/textViewResponse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="AI's response will appear here"
+        android:textSize="16sp"
+        android:padding="8dp"
+        android:background="#F0F0F0" />
+
+</LinearLayout>
